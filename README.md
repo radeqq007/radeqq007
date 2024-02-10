@@ -1,6 +1,8 @@
 <div align="center">
 
 # Hi there 👋
+<br />
+
 
 ## 📋About me
 
@@ -12,6 +14,11 @@ If you ask my friends to describe me with 3 words they'd say: quiet, bookworm, n
 <p align="left"> 
 In my free time I'm usually buried in books, or indulging in my favorite TV shows — primarily Gravity Falls.
 </p>
+<br />
+<br />
+
+
+
 
 ## 💼 Skills
 
@@ -22,8 +29,9 @@ In my free time I'm usually buried in books, or indulging in my favorite TV show
 <img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <br />
+<br />
+<br />
 
-#
 
 ## 🎓 Currently learning
 
@@ -31,10 +39,11 @@ In my free time I'm usually buried in books, or indulging in my favorite TV show
 <img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <br />
+<br />
+<br />
 
-#
 
-### 📊 Stats
+## 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radeqq007&layout=compact&theme=github_dark)
 
 
