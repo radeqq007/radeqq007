@@ -36,8 +36,8 @@ In my free time I'm usually buried in books, or indulging in my favorite TV show
 ## 🎓 Currently learning
 
 <img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
-<img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" />
+          
 <br />
 <br />
 <br />
