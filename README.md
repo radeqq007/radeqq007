@@ -44,7 +44,7 @@ In my free time I'm usually buried in books, or indulging in my favorite TV show
 
 
 ## 📊 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radeqq007&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radeqq007&layout=donut&theme=calm_pink)
 
 
 </div>
