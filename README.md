@@ -28,6 +28,7 @@ In my free time I'm usually buried in books, or indulging in my favorite TV show
 <img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 <img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
 <br />
 <br />
 <br />
@@ -35,7 +36,7 @@ In my free time I'm usually buried in books, or indulging in my favorite TV show
 
 ## 🎓 Currently learning
 
-<img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+<img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />          
           
 <br />
 <br />
