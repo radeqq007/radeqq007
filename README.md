@@ -7,12 +7,12 @@
 ## 📋About me
 
 <p align="left"> 
-If you ask my friends to describe me with 3 words they'd say: quiet, bookworm, nerd.
- My journey with programming started around 3 years ago with python. Currently, I'm mostly working on front-end apps with HTML, CSS and JavaScript. However, I'm open to learning new technologies.
+Quiet, bookworm, nerd - these are the words that describe me perfectly.
+My journey with programming started around 3 years ago with python. Currently, I'm mostly working with html, css, javascript and go. However, I'm open to learning new technologies.
 </p>
 
 <p align="left"> 
-In my free time I'm usually buried in books, or indulging in my favorite TV shows — primarily Gravity Falls.
+In my free time I'm usually buried in books, or indulging in my favorite TV shows.
 </p>
 <br />
 <br />
