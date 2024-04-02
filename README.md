@@ -12,7 +12,7 @@ My journey with programming started around 3 years ago with python. Currently, I
 </p>
 
 <p align="left"> 
-In my free time I'm usually buried in books, or indulging in my favorite TV shows.
+In my free time, besides programming, I'm usually buried in books, playing chess, or indulging in my favorite TV shows.
 </p>
 <br />
 <br />
