@@ -48,5 +48,6 @@ In my free time, besides programming, I'm usually buried in books, playing chess
 ## 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radeqq007&layout=donut&theme=calm_pink)
 
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@IWillEatYourPancakes&layout=compact&theme=calm_pink)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
