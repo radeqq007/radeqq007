@@ -8,7 +8,7 @@
 
 <p align="left"> 
 Quiet, bookworm, nerd - these are the words that describe me perfectly.
-My journey with programming started around 3 years ago with python. Currently, I'm mostly working with html, css, javascript and go. However, I'm open to learning new technologies.
+My journey with programming started around 3 years ago with python. Currently, I'm mostly working with Typescript and Go. However, I'm open to learning new technologies.
 </p>
 
 <p align="left"> 
