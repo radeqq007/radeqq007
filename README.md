@@ -40,6 +40,7 @@ In my free time, besides programming, I'm usually buried in books, playing chess
 ## 🎓 Currently learning
 
 
+<img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />          
 <img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
           
           
