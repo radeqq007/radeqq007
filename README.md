@@ -38,7 +38,6 @@ In my free time, besides programming, I'm usually buried in books, playing chess
 ## 🎓 Currently learning
 
 
-<img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />          
 <img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
           
           
@@ -48,8 +47,10 @@ In my free time, besides programming, I'm usually buried in books, playing chess
 
 
 ## 📊 Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=radeqq007&layout=donut&theme=noctis_minimus)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radeqq007&layout=donut&theme=noctis_minimus" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@IWillEatYourPancakes&layout=compact&theme=noctis_minimus" />
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@IWillEatYourPancakes&layout=compact&theme=noctis_minimus)](https://github.com/anuraghazra/github-readme-stats)
+
 
 </div>
