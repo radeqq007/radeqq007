@@ -39,6 +39,7 @@ In my free time, besides programming, I'm usually buried in books, playing chess
 
 
 <img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
           
           
 <br />
