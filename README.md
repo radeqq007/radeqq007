@@ -1,10 +1,12 @@
 <div align="center">
 
-# Hi there 👋
-<br />
+<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&duration=1000&pause=500&color=E1E1E1&center=true&vCenter=true&repeat=false&width=500&height=64&lines=Hi+there+%F0%9F%91%8B" />
 
+#
 
-## 📋About me
+<br/>
+
+## 📋 About me
 
 <p align="left"> 
 Quiet, bookworm, nerd - these are the words that describe me perfectly.
@@ -20,15 +22,9 @@ In my free time, besides programming, I'm usually buried in books, playing chess
 
 
 
-## 💼 Skills
+## 🛠️ Languages, Frameworks & Tools
 
-<img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />  
-<img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python,php,go,git,github,vscode,powershell">
 
 <br />
 <br />
@@ -38,8 +34,7 @@ In my free time, besides programming, I'm usually buried in books, playing chess
 ## 🎓 Currently learning
 
 
-<img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-<img align="center" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<img src="https://skillicons.dev/icons?i=tailwind,vue">
           
           
 <br />
@@ -48,9 +43,9 @@ In my free time, besides programming, I'm usually buried in books, playing chess
 
 
 ## 📊 Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radeqq007&layout=donut&theme=noctis_minimus" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@IWillEatYourPancakes&layout=compact&theme=noctis_minimus" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radeqq007&layout=donut&theme=material-palenight&border_radius=10" height="200px"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=radeqq007&count_private=true&theme=material-palenight&border_radius=10" height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@IWillEatYourPancakes&layout=compact&theme=material-palenight&border_radius=10" height="500px" />
 
 
 
