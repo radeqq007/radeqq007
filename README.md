@@ -10,11 +10,11 @@
 
 <p align="left"> 
 Quiet, bookworm, nerd - these are the words that describe me perfectly.
-My journey with programming started around 3 years ago with python. Currently, I'm mostly working with Typescript and Go. However, I'm open to learning new technologies.
+My journey with programming started around 3 years ago with python. Currently, I'm mostly working with Go. However, I'm always open to learning new technologies.
 </p>
 
 <p align="left"> 
-In my free time, besides programming, I'm usually buried in books, playing chess, or indulging in my favorite TV shows.
+Besides coding my hobbies also include reading, baking and chess.
 </p>
 <br />
 <br />
@@ -24,7 +24,7 @@ In my free time, besides programming, I'm usually buried in books, playing chess
 
 ## 🛠️ Languages, Frameworks & Tools
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,python,php,go,git,github,vscode,powershell">
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,python,php,go,git,github,vscode,powershell&perline=8">
 
 <br />
 <br />
@@ -34,7 +34,7 @@ In my free time, besides programming, I'm usually buried in books, playing chess
 ## 🎓 Currently learning
 
 
-<img src="https://skillicons.dev/icons?i=tailwind,vue">
+<img src="https://skillicons.dev/icons?i=tailwind,vue&perline=8">
           
           
 <br />
