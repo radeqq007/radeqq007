@@ -14,7 +14,7 @@ My journey with programming started around 3 years ago with python. Currently, I
 </p>
 
 <p align="left"> 
-Besides coding my hobbies also include reading, baking and chess.
+Besides coding my hobbies also include reading, weightlifting, running, baking and chess.
 </p>
 <br />
 <br />
