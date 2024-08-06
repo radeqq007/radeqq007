@@ -22,7 +22,7 @@ Besides coding my hobbies also include reading, weightlifting, running, baking a
 
 
 
-## 🛠️ Languages, Frameworks & Tools
+## ⚡ Languages, Frameworks & Tools
 
 <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,php,go,git,github,vscode,powershell&perline=8">
 
