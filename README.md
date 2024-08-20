@@ -8,13 +8,16 @@
 
 ## 📋 About me
 
-<p align="left"> 
-Quiet, bookworm, nerd - these are the words that describe me perfectly.
-My journey with programming started around 3 years ago with python. Currently, I'm mostly working with Go. However, I'm always open to learning new technologies.
+<p align="left">      
+Hi! I'm Radek, a passionate software developer from Poland.
 </p>
 
-<p align="left"> 
-Besides coding my hobbies also include reading, weightlifting, running, baking and chess.
+<p align="left">      
+My journey with programming started about three years ago with python, but javascript was my first ever language I mastered. Nowadays, I'm mostly comfortable with Go, particularly on backend development. However, I'm open to learning new languages and technologies.
+</p>
+
+<p align="left">      
+Outside of coding I also enjoy reading, weightlifting, running, baking and chess.
 </p>
 <br />
 <br />
@@ -24,7 +27,7 @@ Besides coding my hobbies also include reading, weightlifting, running, baking a
 
 ## ⚡ Languages, Frameworks & Tools
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,python,php,go,git,github,vscode,powershell&perline=8">
+<img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,python,php,go,mysql,git,github,vscode,powershell&perline=8">
 
 <br />
 <br />
@@ -34,7 +37,7 @@ Besides coding my hobbies also include reading, weightlifting, running, baking a
 ## 🎓 Currently learning
 
 
-<img src="https://skillicons.dev/icons?i=tailwind,vue&perline=8">
+<img src="https://skillicons.dev/icons?i=vue&perline=8">
           
           
 <br />
