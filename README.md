@@ -46,6 +46,7 @@ Outside of coding I also enjoy reading, weightlifting, running, baking and chess
 
 
 ## 📊 Stats
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=radeqq007&theme=material-palenight&hide_border=true&area=true&custom_title=Contribution%20Graph" width="800">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radeqq007&layout=donut&theme=material-palenight&border_radius=10" height="200px"/>
 <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=radeqq007&count_private=true&theme=material-palenight&border_radius=10" height="200px"/>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@IWillEatYourPancakes&layout=compact&theme=material-palenight&border_radius=10" height="500px" />
