@@ -17,7 +17,7 @@ My journey with programming started about three years ago with python, but javas
 </p>
 
 <p align="left">      
-Outside of coding I also enjoy reading, weightlifting, running, baking and chess.
+Outside of coding, I also enjoy reading, weightlifting, running and chess. Recently, I've also picked up playing the guitar.
 </p>
 <br />
 <br />
@@ -46,10 +46,10 @@ Outside of coding I also enjoy reading, weightlifting, running, baking and chess
 
 
 ## 📊 Stats
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=radeqq007&theme=material-palenight&hide_border=true&area=true&custom_title=Contribution%20Graph" width="800">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radeqq007&layout=donut&theme=material-palenight&border_radius=10" height="200px"/>
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=radeqq007&count_private=true&theme=material-palenight&border_radius=10" height="200px"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@IWillEatYourPancakes&layout=compact&theme=material-palenight&border_radius=10" height="500px" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=radeqq007&area=true&custom_title=Contribution%20Graph&area_color=ff9102&line=ff9102&point=ff9102&bg_color=36393F&color=FFFFFF&radius=10" width="850px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radeqq007&layout=donut&theme=slateorange&border_radius=10" height="200px"/>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=radeqq007&count_private=true&theme=slateorange&border_radius=10" height="200px"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@IWillEatYourPancakes&layout=compact&theme=slateorange&border_radius=10" height="500px" />
 
 
 
