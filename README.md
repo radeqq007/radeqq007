@@ -37,7 +37,7 @@ Outside of coding, I also enjoy reading, weightlifting, running and chess. Recen
 ## 🎓 Currently learning
 
 
-<img src="https://skillicons.dev/icons?i=vue&perline=8">
+<img src="https://skillicons.dev/icons?i=vue,rust&perline=8">
           
           
 <br />
