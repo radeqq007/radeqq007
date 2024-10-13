@@ -58,10 +58,15 @@ Outside of coding, I also enjoy reading, weightlifting, running and chess. Recen
 
 
 ## 📊 Stats
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=radeqq007&area=true&custom_title=Contribution%20Graph&area_color=ff9102&line=ff9102&point=ff9102&bg_color=36393F&color=FFFFFF&radius=10" width="850px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radeqq007&layout=donut&theme=slateorange&border_radius=10" height="200px"/>
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=radeqq007&count_private=true&theme=slateorange&border_radius=10" height="200px"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@IWillEatYourPancakes&layout=compact&theme=slateorange&border_radius=10" height="500px" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=radeqq007&theme=transparent" />
+<br />
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=radeqq007&count_private=true&theme=transparent&hide_border=true" height="200px"/>
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radeqq007&layout=donut&theme=transparent&hide_border=true" height="200px"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=radeqq007&theme=transparent" />
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@IWillEatYourPancakes&layout=compact&theme=transparent&hide_border=true" height="500px" />
 
 
 
