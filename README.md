@@ -51,6 +51,7 @@ Outside of coding, I also enjoy reading, weightlifting, running and chess. Recen
 ## 🎓 Currently learning
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="50px">          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50px"/>         
           
 <br />
 <br />
