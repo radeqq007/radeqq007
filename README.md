@@ -58,7 +58,6 @@ Outside of coding, I also enjoy reading, weightlifting, running and chess. Recen
 <br />
 <br />
 <br />
-hid
 
 ## 📊 Stats
 <img src="https://github-readme-stats.vercel.app/api?username=radeqq007&show_icons=true&theme=transparent&hide_border=true" />
