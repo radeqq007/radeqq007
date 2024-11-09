@@ -69,7 +69,7 @@ Outside of coding, I also enjoy reading, weightlifting, running and chess. Recen
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@IWillEatYourPancakes&layout=compact&theme=transparent&hide_border=true" height="500px" />
 
-## 🎧 Currently listening to
+## 🎧 Recently listened to
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=radeqq007&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
