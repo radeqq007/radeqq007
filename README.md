@@ -29,21 +29,23 @@ Outside of coding, I also enjoy reading, weightlifting, running and chess. Recen
 
 
 
-## ⚡ Languages, Frameworks & Tools
+## ⚡ Languages, Frameworks & Tools      
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34C26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![CSS3](https://img.shields.io/badge/tailwind-38bdf8.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![VUE.JS](https://img.shields.io/badge/vue.js-%42b883.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=white)
+![php](https://img.shields.io/badge/php-787CB5.svg?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=F29111)
+![GIT](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS CODE](https://img.shields.io/badge/vs_code-0066B8.svg?style=for-the-badge&logo=vscode&logoColor=white)
+![POP!_OS](https://img.shields.io/badge/Pop!__OS-049197.svg?style=for-the-badge&logo=popos&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-fbbb14.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="50px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" height="50px">          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50px">
-<br />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="50px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" height="50px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="50px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="50px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Pop%21_OS_Icon.svg" height="50px">
 
 <br />
 <br />
@@ -52,9 +54,10 @@ Outside of coding, I also enjoy reading, weightlifting, running and chess. Recen
 
 ## 🎓 Currently learning
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" height="50px">          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="50px"/>         
-          
+![Kotlin](https://img.shields.io/badge/kotlin-7e52ff.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://custom-icon-badges.demolab.com/badge/C%23-9f73d9.svg?style=for-the-badge&logo=cshrp&logoColor=white)
+
+
 <br />
 <br />
 <br />
