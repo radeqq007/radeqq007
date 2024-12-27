@@ -6,9 +6,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=40&duration=2000&pause=500&color=E1E1E1&center=true&vCenter=true&repeat=false&width=500&height=64&lines=Hi+there+%F0%9F%91%8B" />
 
-#
-
-<br/>
+<br />
+<br />
+<br />
 
 ## 📋 About me
 
