@@ -25,6 +25,7 @@ Outside of coding, I also enjoy reading, weightlifting, running and chess. Recen
 </p>
 <br />
 <br />
+<br />
 
 
 ## 🔎 Find me on
@@ -33,6 +34,10 @@ Outside of coding, I also enjoy reading, weightlifting, running and chess. Recen
 [![Instagram](https://img.shields.io/badge/instagram-fc1f44.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/radeqq__/)
 [![My website](https://img.shields.io/badge/my_website-ff3cb4.svg?&style=for-the-badge&logo=vue.js&logoColor=white)](https://radeqq007.github.io/portfolio/)
 [![Discord](https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/695965239556177980)
+
+<br />
+<br />
+<br />
 
 ## ⚡ Languages, Frameworks & Tools      
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
