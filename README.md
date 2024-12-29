@@ -17,7 +17,7 @@ Hi! I'm Radek, a passionate software developer from Poland.
 </p>
 
 <p align="left">      
-My journey with programming started about three years ago with python, but javascript was my first ever language I mastered. Nowadays, I'm mostly comfortable with Go, particularly on backend development. However, I'm open to learning new languages and technologies.
+My journey with programming started about three years ago with python, but javascript was first language I mastered. Nowadays, I'm mostly comfortable working on frontend development, particularly with Vue.js. However, I'm open to learning new languages and technologies. 
 </p>
 
 <p align="left">      
