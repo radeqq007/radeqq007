@@ -31,7 +31,7 @@ Outside of coding, I also enjoy reading, weightlifting, running and chess. Recen
 ## 🔎 Find me on
 [![Twitter](https://img.shields.io/badge/Twitter-black.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/wcale_nie_radek)
 [![Reddit](https://img.shields.io/badge/reddit-e03c04.svg?&style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/radeqq007/)
-[![Instagram](https://img.shields.io/badge/instagram-fc1f44.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/radeqq__/)
+[![Instagram](https://img.shields.io/badge/instagram-fc1f44.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your.iron.lung/)
 [![My website](https://img.shields.io/badge/my_website-ff3cb4.svg?&style=for-the-badge&logo=vue.js&logoColor=white)](https://radeqq007.github.io/portfolio/)
 [![Discord](https://img.shields.io/badge/discord-5865F2.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/695965239556177980)
 
