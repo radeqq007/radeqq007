@@ -53,6 +53,7 @@ Outside of coding, I also enjoy reading, weightlifting, running and chess. Recen
 ![GIT](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS CODE](https://img.shields.io/badge/vs_code-0066B8.svg?style=for-the-badge&logo=vscode&logoColor=white)
+![NEOVIM](https://img.shields.io/badge/neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 ![POP!_OS](https://img.shields.io/badge/Pop!__OS-049197.svg?style=for-the-badge&logo=popos&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-fbbb14.svg?style=for-the-badge&logo=linux&logoColor=black)
 
