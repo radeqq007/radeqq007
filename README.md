@@ -68,6 +68,7 @@ Outside of coding, I also enjoy reading, weightlifting, running and chess. Recen
 ![Kotlin](https://img.shields.io/badge/kotlin-7e52ff.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![C#](https://custom-icon-badges.demolab.com/badge/C%23-9f73d9.svg?style=for-the-badge&logo=cshrp&logoColor=white)
 ![NUXT.JS](https://img.shields.io/badge/nuxt.js-00DC82.svg?style=for-the-badge&logo=nuxt.js&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-f74b00.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 
 <br />
