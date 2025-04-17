@@ -79,7 +79,7 @@ Outside of coding, I also enjoy reading, weightlifting, running and chess. Recen
 <img src="https://github-readme-stats.vercel.app/api?username=radeqq007&show_icons=true&theme=dracula&hide_border=true" />
 <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=radeqq007&count_private=true&theme=dracula&hide_border=true" height="200px"/>
 <br />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@IWillEatYourPancakes&layout=compact&theme=dracula&hide_border=true" height="500px" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@IWillEatYourPancakes&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="200px" />
 
 ## 🎧 Recently listened to
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=radeqq007&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
