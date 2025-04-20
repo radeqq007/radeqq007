@@ -17,7 +17,7 @@ My journey with programming started about three years ago with python, but javas
 </p>
 
 <p align="left">      
-Outside of coding, I also enjoy reading, weightlifting, running and chess. Recently, I've also picked up playing the guitar.
+Outside of coding, I also enjoy reading, weightlifting, running and playing the guitar.
 </p>
 <br />
 <br />
