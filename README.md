@@ -85,4 +85,10 @@ Outside of coding, I also enjoy reading, weightlifting, running and chess. Recen
 
 ## 🎧 Recently listened to
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=radeqq007&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<br />
+
+[![wakatime](https://wakatime.com/badge/user/018e8e59-6809-4a18-9567-7612f064fe22.svg?style=for-the-badge)](https://wakatime.com/@018e8e59-6809-4a18-9567-7612f064fe22)
+![Visitor count](https://komarev.com/ghpvc/?username=radeqq007&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/radeqq007?label=Follow&style=for-the-badge)](https://github.com/radeqq007)
 </div>
