@@ -47,6 +47,7 @@ Outside of coding, I also enjoy reading, weightlifting, running and playing the 
 ![php](https://img.shields.io/badge/php-787CB5.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=F29111)
+![Postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![GIT](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS CODE](https://img.shields.io/badge/vs_code-0066B8.svg?style=for-the-badge&logo=vscode&logoColor=white)
