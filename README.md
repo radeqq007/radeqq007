@@ -74,7 +74,7 @@ Outside of coding, I also enjoy reading, weightlifting, running and playing the 
 <br />
 
 ## 📊 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=radeqq007&show_icons=true&theme=dracula&hide_border=truee&include_all_commits=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=radeqq007&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" />
 <br />
 <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=radeqq007&count_private=true&theme=dracula&hide_border=true" height="200px"/>
 <br />
