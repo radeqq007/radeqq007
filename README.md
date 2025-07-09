@@ -42,6 +42,7 @@ Outside of coding, I also enjoy reading, weightlifting, running and playing the 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![CSS3](https://img.shields.io/badge/tailwind-38bdf8.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![VUE.JS](https://img.shields.io/badge/vue.js-%42b883.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+![CHART.JS](https://img.shields.io/badge/chart.js-FF6384.svg?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=white)
 ![php](https://img.shields.io/badge/php-787CB5.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -50,7 +51,7 @@ Outside of coding, I also enjoy reading, weightlifting, running and playing the 
 ![GITHUB](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS CODE](https://img.shields.io/badge/vs_code-0066B8.svg?style=for-the-badge&logo=vscode&logoColor=white)
 ![NEOVIM](https://img.shields.io/badge/neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![POP!_OS](https://img.shields.io/badge/Fedora-3c6eb4.svg?style=for-the-badge&logo=fedora&logoColor=white)
+![fedora](https://img.shields.io/badge/Fedora-3c6eb4.svg?style=for-the-badge&logo=fedora&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-fbbb14.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 
