@@ -13,12 +13,14 @@ Hi! I'm Radek, a passionate software developer from Poland.
 </p>
 
 <p align="left">      
-My journey with programming started about three years ago with python, but javascript was first language I mastered. Nowadays, I'm mostly comfortable working on frontend development, particularly with Vue.js. However, I'm open to learning new languages and technologies. 
+My journey with programming started about four years ago with Python, however javascript was the first language I truly learned.
+Nowadays I'm mostly working on frontend with Vue.js, React and Tailwindcss, but I am constantly learning new technologies and languages.
 </p>
 
-<p align="left">      
-Outside of coding, I also enjoy reading, weightlifting, running and playing the guitar.
+<p align="left">
+Outside of coding I also enjoy reading, weightlifting and playing the guitar.
 </p>
+
 <br />
 <br />
 <br />
