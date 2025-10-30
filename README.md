@@ -2,13 +2,12 @@
 
 # Hi there! 👋
 
-<p align="left">      
-I'm Radek, a passionate software developer from Poland.
+<p align="left">
+Hi! I'm Radek, a passionate software developer from Poland.
 </p>
 
-<p align="left">      
-My journey with programming started about four years ago with Python, however javascript was the first language I truly learned.
-Nowadays I'm mostly working on frontend with Vue.js, React and Tailwindcss, but I am constantly learning new technologies and languages.
+<p align="left">
+My programming journey started about 4 years ago with Python. Nowadays I'm mostly working with Go and Typescript.
 </p>
 
 <p align="left">
