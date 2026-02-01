@@ -7,7 +7,7 @@ Hi! I'm Radek, a passionate software developer from Poland.
 </p>
 
 <p align="left">
-My programming journey started about 4 years ago with Python. Nowadays I'm mostly working with Go and Typescript.
+My programming journey started about 5 years ago with Python. Nowadays I'm mostly working with Go and Typescript.
 </p>
 
 <p align="left">
