@@ -58,11 +58,9 @@ Outside of coding I also enjoy reading, weightlifting and playing the guitar.
 <br />
 
 ## 📊 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=radeqq007&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&show=reviews" />
-<br />
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=radeqq007&count_private=true&theme=dracula&hide_border=true" height="200px"/>
-<br />
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@IWillEatYourPancakes&layout=compact&theme=dracula&hide_border=true&langs_count=8" height="200px" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=radeqq007&show_icons=true&include_all_commits=true&theme=calm)](https://github-stats-extended.vercel.app/api?username=radeqq007&show_icons=true&include_all_commits=true&theme=calm)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=iwilleatyourpancakes&layout=compact&langs_count=8&theme=calm)](https://wakatime.com/@iwilleatyourpancakes)
 
 
 <br />
