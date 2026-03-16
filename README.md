@@ -46,7 +46,6 @@ Outside of coding I also enjoy reading, weightlifting and playing the guitar.
 ![Postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![github](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/vs_code-0066B8.svg?style=for-the-badge&logo=vscode&logoColor=white)
 ![nvim](https://img.shields.io/badge/neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Arch linux](https://img.shields.io/badge/Arch-1793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
