@@ -59,6 +59,8 @@ Outside of coding I also enjoy reading, weightlifting and playing the guitar.
 ## 📊 Stats
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=radeqq007&show_icons=true&include_all_commits=true&theme=calm)](https://github-stats-extended.vercel.app/api?username=radeqq007&show_icons=true&include_all_commits=true&theme=calm)
 
+![GitHub Stats](https://github-readme-streak-stats-salesp07.vercel.app/?user=radeqq007&count_private=true&theme=calm)
+
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=iwilleatyourpancakes&layout=compact&langs_count=8&theme=calm)](https://wakatime.com/@iwilleatyourpancakes)
 
 
