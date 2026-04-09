@@ -1,23 +1,15 @@
-<div align="center">
 
 # Hi there! 👋
 
-<p align="left">
-Hi! I'm Radek, a passionate software developer from Poland.
-</p>
+I'm a 19 years old student from Poland.
 
-<p align="left">
-My programming journey started about 5 years ago with Python. Nowadays I'm mostly working with Go and Typescript.
-</p>
-
-<p align="left">
 Outside of coding I also enjoy reading, weightlifting and playing the guitar.
-</p>
 
 <br />
 <br />
 <br />
 
+<div align="center">
 
 ## 🔎 Find me on
 [![Twitter](https://img.shields.io/badge/Twitter-black.svg?&style=for-the-badge&logo=X&logoColor=white)](https://x.com/wcale_nie_radek)
