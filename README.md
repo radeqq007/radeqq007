@@ -7,7 +7,6 @@ My hobbies outside of coding include reading, weightlifting, playing the guitar 
 
 <br />
 <br />
-<br />
 
 <div align="center">
 
@@ -20,7 +19,6 @@ My hobbies outside of coding include reading, weightlifting, playing the guitar 
 
 <br />
 <br />
-<br />
 
 ## ⚡ Languages, Frameworks & Tools      
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -29,22 +27,13 @@ My hobbies outside of coding include reading, weightlifting, playing the guitar 
 ![tailwindcss](https://img.shields.io/badge/tailwind-38bdf8.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![vue](https://img.shields.io/badge/vue-42b883.svg?style=for-the-badge&logo=vue.js&logoColor=white)
 ![react](https://img.shields.io/badge/react-58c4dc.svg?style=for-the-badge&logo=react&logoColor=white)
-![svelte](https://img.shields.io/badge/svelte-f96743.svg?style=for-the-badge&logo=svelte&logoColor=white)
 ![astro](https://img.shields.io/badge/astro-BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=white)
-![php](https://img.shields.io/badge/php-787CB5.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Go](https://img.shields.io/badge/go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-00758F.svg?style=for-the-badge&logo=mysql&logoColor=F29111)
-![Postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
-![git](https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![nvim](https://img.shields.io/badge/neovim-57A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
-![FIGMA](https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Arch linux](https://img.shields.io/badge/Arch-1793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-fbbb14.svg?style=for-the-badge&logo=linux&logoColor=black)
 
-
-<br />
 <br />
 <br />
 
@@ -56,7 +45,6 @@ My hobbies outside of coding include reading, weightlifting, playing the guitar 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=iwilleatyourpancakes&layout=compact&langs_count=8&theme=calm)](https://wakatime.com/@iwilleatyourpancakes)
 
 
-<br />
 <br />
 <br />
 
