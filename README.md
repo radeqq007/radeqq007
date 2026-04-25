@@ -3,7 +3,7 @@
 
 I'm a 19 years old student from Poland.
 
-Outside of coding I also enjoy reading, weightlifting and playing the guitar.
+My hobbies outside of coding include reading, weightlifting, playing the guitar and anything music related.
 
 <br />
 <br />
