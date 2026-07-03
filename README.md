@@ -11,12 +11,10 @@
 
 <details>
 <summary> <h2> 🎧 Recently listened to </h2> </summary>
-<div align="center">
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=radeqq007&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=33d17a&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </details>
-</div>
 
 ![You should use neovim btw](./use-neovim-btw.png)
 
