@@ -5,8 +5,8 @@
 <details>
 <summary> <h2> 📊 Stats </h2> </summary>
   
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=radeqq007&show_icons=true&include_all_commits=true&theme=calm)](https://github-stats-extended.vercel.app/api?username=radeqq007&show_icons=true&include_all_commits=true&theme=calm)
-[![Top Wakatime Languages](https://github-stats-extended.vercel.app/api/wakatime?username=iwilleatyourpancakes&layout=compact&langs_count=8&theme=calm)](https://wakatime.com/@iwilleatyourpancakes)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=radeqq007&show_icons=true&include_all_commits=true&theme=github_dark)
+[![Top Wakatime Languages](https://github-stats-extended.vercel.app/api/wakatime?username=iwilleatyourpancakes&layout=compact&langs_count=12&theme=github_dark)](https://wakatime.com/@iwilleatyourpancakes)
 </details>
 
 <details>
