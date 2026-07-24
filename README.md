@@ -1,6 +1,6 @@
 # Hi, I'm Radek! 👋
 
-**I'm a 19-year-old student from Poland** who enjoys coding. My hobbies outside of coding include reading, weightlifting, playing the guitar and anything music-related.
+I'm a **19-year-old high school student from Poland** who enjoys coding. My hobbies outside of coding include reading, weightlifting, playing the guitar and anything music-related.
 
 <details>
 <summary> <h2> 📊 Stats </h2> </summary>
