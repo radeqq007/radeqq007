@@ -5,8 +5,8 @@ I'm a **19-year-old high school student from Poland** who enjoys coding. My hobb
 <details>
 <summary> <h2> 📊 Stats </h2> </summary>
   
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=radeqq007&show_icons=true&include_all_commits=true&theme=github_dark)
-[![Top Wakatime Languages](https://github-stats-extended.vercel.app/api/wakatime?username=iwilleatyourpancakes&layout=compact&langs_count=12&theme=github_dark)](https://wakatime.com/@iwilleatyourpancakes)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=radeqq007&show_icons=true&include_all_commits=true&theme=omni)
+[![Top Wakatime Languages](https://github-stats-extended.vercel.app/api/wakatime?username=iwilleatyourpancakes&layout=compact&langs_count=12&theme=omni)](https://wakatime.com/@iwilleatyourpancakes)
 </details>
 
 <details>
